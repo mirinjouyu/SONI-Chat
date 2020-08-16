@@ -1,0 +1,45 @@
+<html>
+
+<head>
+    
+     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="bmesse02.css" />
+
+
+<title>
+Right
+</title>
+
+<body>
+    
+誹謗中傷発言、連絡先の交換等は無しでお願いします。
+    
+     <div id="bms_messages">
+    
+                <!--メッセージ１（左側）-->
+                <div class="bms_message bms_left">
+                    <div class="bms_message_box">
+                        <div class="bms_message_content">
+                            <div class="bms_message_text">defueufofopjdife9ufefkfifasasffifakjfuetutetujfkseiut7793r8r9efupefuzpefuzpufteufxeufue9ufe9tfu9etuep9t0upe9tuep90tup9tuetpu.tuwa:09upa9</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bms_clear"></div><!-- 回り込みを解除（スタイルはcssで充てる） -->
+
+                <!--メッセージ２（右側）-->
+                <div class="bms_message bms_right">
+                    
+                        <div class="bms_message_content">
+                            <div class="bms_message_text">うん、まあまあいけとるな</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bms_clear"></div><!-- 回り込みを解除（スタイルはcssで充てる） -->
+            
+    
+</body>
+
+</head>
+
+</html>
